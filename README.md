@@ -21,8 +21,3 @@ npm start
 - styled with Ant Design
 - routing with React Router v5
 - state management with Redux Toolkit
-
-## :eyes: Preview
-
-<img src="https://github.com/yuann-se/hacker-news_mirror/blob/main/preview/thn1.png" width="400" height="500"/> <img src="https://github.com/yuann-se/hacker-news_mirror/blob/main/preview/thn2.png" width="400" height="500"/>
-
