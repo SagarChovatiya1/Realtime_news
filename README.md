@@ -13,7 +13,6 @@ npm i
 npm start
 ```
 
-**Check out production build on Vercel → [hacker-news_mirror](hacker-news-mirror.vercel.app)** :sparkles:
 
 ## :gift: Features
 - built with [official Hacker News API](https://github.com/HackerNews/API)
